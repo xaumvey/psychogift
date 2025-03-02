@@ -78,11 +78,11 @@
 <body>
     <header>Xaumvey оплатил вам психотерапевта "Сергея Бондаренко". Давайте назначим встречу:</header>
     <nav>
-        <a href="#">Главная</a>
-        <a href="#">О нас</a>
-        <a href="#">Услуги</a>
-        <a href="#">Контакты</a>
-        <a href="#">Регистрация</a>
+        <a href="https://www.youtube.com/watch?v=f8mL0_4GeV0&ab_channel=Rush">Главная</a>
+        <a href="https://www.youtube.com/watch?v=f8mL0_4GeV0&ab_channel=Rush">О нас</a>
+        <a href="https://www.youtube.com/watch?v=f8mL0_4GeV0&ab_channel=Rush">Услуги</a>
+        <a href="https://www.youtube.com/watch?v=f8mL0_4GeV0&ab_channel=Rush">Контакты</a>
+        <a href="https://www.youtube.com/watch?v=f8mL0_4GeV0&ab_channel=Rush">Регистрация</a>
     </nav>
     <div class="container">
         <div class="therapist">
